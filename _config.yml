@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Sebastian Kraus"
-  avatar           : 
+  avatar           : "smkraus_profile.png"
   bio              : "PhD Candidate in economics. Previously: GIZ, political planning at the Federal Chancellery."
-  location         : "Berlin"
-  employer         : "Mercator Research Institute on Global Commons and Climate Change"
+  location         : "Berlin, GER"
+  employer         : "MCC Berlin"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=7piClZMAAAAJ&hl=en"
   email            : "kraus@mcc-berlin.net"
