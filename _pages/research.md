@@ -10,6 +10,6 @@ title: "Research"
 
 **Protecting forests with large scale community land titling in Indonesia: evidence from the first million hectares** with Jacqueline Liu, [Nicolas Koch](https://www.mcc-berlin.net/en/about/team/koch-nicolas.html), and [Sabine Fuss](https://www.mcc-berlin.net/en/about/team/fuss-sabine.html)
 
-**Air pollution and Covid19: evidence from global district-level case counts and thermal inversions** with [Hannah Klauber](https://www.mcc-berlin.net/en/about/team/klauber-hannah.html) and [Nicolas Koch](https://www.mcc-berlin.net/en/about/team/koch-nicolas.html)
+**Air pollution and COVID-19: evidence from global district-level case counts and thermal inversions** with [Hannah Klauber](https://www.mcc-berlin.net/en/about/team/klauber-hannah.html) and [Nicolas Koch](https://www.mcc-berlin.net/en/about/team/koch-nicolas.html)
 
 **Price responsiveness of forest conversion to oil palm plantations in Indonesia** with [Valentin Guye](https://www.mcc-berlin.net/en/about/team/guye-valentiin.htmlgit )
