@@ -3,9 +3,9 @@ permalink: /research/
 title: "Research"
 ---
 
-#### Selected work in progress
+### Selected work in progress
 
-**Spillovers to manufacturing plants from multi-million dollar plantations: evidence from the Indonesian palm oil boom** with Robert Heilmayr and [Nicolas Koch](https://www.mcc-berlin.net/en/about/team/koch-nicolas.html)
+**Spillovers to manufacturing plants from multi-million dollar plantations: evidence from the Indonesian palm oil boom** with [Robert Heilmayr](http://conservation-econ.com/) and [Nicolas Koch](https://www.mcc-berlin.net/en/about/team/koch-nicolas.html)
 > We estimate spillover effects of the Indonesian palm oil boom to local manufacturing plants using a stacked difference-in-differences approach. We use new data on the construction dates and ownership of palm mills to identify clean shocks from investments in new plantations. Local agricultural booms caused increased sales and productivity of manufacturing plants, despite rising blue-collar wages. Using confidential input-output data, we also find shifts in plants' product portfolios. They increased their share of tradable goods, but produced fewer relationship-specific goods. This is consistent with local road improvements. Our results are robust in a sample of large corporate groups that assign treatment more independently from changes in local conditions.
 
 
