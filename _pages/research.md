@@ -1,13 +1,17 @@
 ---
-permalink: /markdown/
+permalink: /research/
 title: "Research"
 author_profile: true
 redirect_from: 
-  - research.html
+  - /research/
+  - /research.html
 ---
 
-## Test
+## Working papers
 
 fwrgfwrg
 
 efwefwe
+
+
+## Selected work in progress
