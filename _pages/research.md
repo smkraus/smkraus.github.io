@@ -12,4 +12,4 @@ title: "Research"
 
 **Air pollution and COVID-19: evidence from global district-level case counts and thermal inversions** with [Hannah Klauber](https://www.mcc-berlin.net/en/about/team/klauber-hannah.html) and [Nicolas Koch](https://www.mcc-berlin.net/en/about/team/koch-nicolas.html)
 
-**Price responsiveness of forest conversion to oil palm plantations in Indonesia** with [Valentin Guye](https://www.mcc-berlin.net/en/about/team/guye-valentiin.htmlgit )
+**Price responsiveness of forest conversion to oil palm plantations in Indonesia** with [Valentin Guye](https://www.mcc-berlin.net/en/about/team/guye-valentiin.html)
