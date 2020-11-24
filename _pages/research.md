@@ -13,6 +13,6 @@ The bicycle is a low-cost means of transport linked to low risk of COVID-19 tran
 
 **Protecting forests with large scale community land titling in Indonesia: evidence from the first million hectares** with Jacqueline Liu, [Nicolas Koch](https://www.mcc-berlin.net/en/about/team/koch-nicolas.html), and [Sabine Fuss](https://www.mcc-berlin.net/en/about/team/fuss-sabine.html)
 
-**Air pollution and COVID-19: evidence from global district-level case counts and thermal inversions** with [Hannah Klauber](https://www.mcc-berlin.net/en/about/team/klauber-hannah.html) and [Nicolas Koch](https://www.mcc-berlin.net/en/about/team/koch-nicolas.html)
+**Effects of thermal inversion induced air pollution on COVID-19**\[[Preprint](https://arxiv.org/abs/2011.11127)\] with [Hannah Klauber](https://www.mcc-berlin.net/en/about/team/klauber-hannah.html) and [Nicolas Koch](https://www.mcc-berlin.net/en/about/team/koch-nicolas.html)
 
-**Price responsiveness of forest conversion to oil palm plantations in Indonesia** with [Valentin Guye](https://www.mcc-berlin.net/en/about/team/guye-valentiin.html)
+**Price responsiveness of primary forest conversion in Indonesia: Evidence from a panel of palm oil mills** with [Valentin Guye](https://www.mcc-berlin.net/en/about/team/guye-valentiin.html)
