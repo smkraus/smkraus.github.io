@@ -4,7 +4,7 @@ title: "Research"
 ---
 
 ## Working Papers
-**Effect of pop-up bike lanes on cycling in European cities** (forthcoming). *PNAS*. \[[Newest draft](https://smkraus.github.io/files/kk_popup-bikelanes.pdf)\]\[[Preprint](https://arxiv.org/abs/2008.05883)\] with [Nicolas Koch](https://www.mcc-berlin.net/en/about/team/koch-nicolas.html)<br>
+**Effect of pop-up bike lanes on cycling in European cities** (2021). *PNAS*. \[[Published Paper](https://www.pnas.org/content/118/15/e2024399118)\]\[[Preprint](https://arxiv.org/abs/2008.05883)\] with [Nicolas Koch](https://www.mcc-berlin.net/en/about/team/koch-nicolas.html)<br>
 The bicycle is a low-cost means of transport linked to low risk of COVID-19 transmission. Governments have incentivized cycling by redistributing street space as part of their post-lockdown strategies. Here, we evaluate the impact of provisional bicycle infrastructure on cycling traffic in European cities. We scrape daily bicycle counts spanning over a decade from 736 bicycle counters in 106 European cities. We combine this with data on announced and completed pop-up bike lane road work projects. On average 11.5 kilometers of provisional pop-up bike lanes have been built per city. Each kilometer has increased cycling in a city by 0.6%. We calculate that the new infrastructure will generate $2.3 billion in health benefits per year, if cycling habits are sticky.
 
 ## Selected work in progress
