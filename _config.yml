@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : 
-  avatar           : "smkraus_profile.png"
-  bio              : "PhD Candidate in economics. Previously: GIZ, political planning at the Federal Chancellery."
-  location         : "MCC, Berlin, GER"
+  avatar           : "smkraus_profile.jpg"
+  bio              : "Fellow at MoF. Previously: Doctoral studies MCC, consulting GIZ, political planning at the Federal Chancellery."
+  location         : "Berlin, GER"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=7piClZMAAAAJ&hl=en"
-  email            : "kraus@mcc-berlin.net"
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
