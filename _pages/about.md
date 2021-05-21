@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Policy Analyst at the [Mercator Research Institute on Global Commons and Climate Change](https://www.mcc-berlin.net/) in Berlin, Germany. I apply econometric methods to questions at the intersections of environmental, development, and health economics.
+I am currently a Fellow at the German Ministry of Finance.
 
-Before my work at the MCC and my doctoral studies I worked as a senior consultant for the German Development Agency, GIZ, and in the policy planning staff at the Federal Chancellery. I also did consulting work on data projects with governments, NGOs, media organizations, and the private sector. My Masters are from the London School of Economics and Sciences Po Paris. I did my undergraduate studies at Sciences Po Paris and the University of Oxford. My CV is available [here](https://smkraus.github.io/files/cv.pdf).
+In my research I apply econometric methods to questions at the intersections of environmental, growth, and health economics.
 
-### Data and code
-I have worked extensively with geographical and survey data from Indonesia and I'm currently preparing a data repository with crosswalks for geographical and industry identifiers. Please reach out, if you need this data.
+I completed my doctoral studies at the [Mercator Research Institute on Global Commons and Climate Change](https://www.mcc-berlin.net/). Before, I worked as a senior consultant for the German Development Agency, GIZ, and in the policy planning staff at the Federal Chancellery. I also did consulting work on data projects with governments, NGOs, media organizations, and the private sector. My Masters are from the London School of Economics and Sciences Po Paris. I did my undergraduate studies at Sciences Po Paris and the University of Oxford. My CV is available [here](https://smkraus.github.io/files/cv.pdf).
+
+Disclaimer: The views expressed on this site do not necessarily reflect those of the Federal Reserve Bank of Philadelphia or the Federal Reserve System.
 
