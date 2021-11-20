@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Fellow at the German Ministry of Finance.
+I am currently a Fellow at the German Ministry of Finance (Bundesministerium der Finanzen, BMF).
 
 In my research work, I apply econometric methods to questions at the intersections of environmental, growth, and health economics.
 
